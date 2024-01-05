@@ -1,4 +1,4 @@
-
+Repository from https://github.com/bcm-uga/SSMPG2022
 
 
 # Data challenge SSMPG 2022
